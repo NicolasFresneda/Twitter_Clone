@@ -1,4 +1,4 @@
-export class comp extends HTMLElement {
+export class Logo extends HTMLElement {
   text = "";
   static get observedAttributes() {
     return ["title"];
@@ -52,4 +52,4 @@ export class comp extends HTMLElement {
   }
 }
 
-customElements.define("comp-container", comp);
+customElements.define("Logo-container", Logo);

@@ -1,0 +1,20 @@
+section {
+    position: relative;
+    top: 90px; right: -80%;
+    width: fit-content;
+    border-color: black;
+    background-color: rgb(230, 230, 230);
+    border-radius: 20px;
+    box-shadow: 5px 13px 25px black;
+    box-sizing: 5px 13px 58px -25px rgba(0,0,0);
+    border-color: black;
+    padding: 20px;
+    border-radius: 80px;
+    align-self: flex-end;
+
+}
+
+p{
+    padding: 2px;
+}
+

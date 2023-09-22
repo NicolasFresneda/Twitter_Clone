@@ -61,31 +61,10 @@ padding: 10px;
         
 </style>
 
-
-<style>
-    .indent-1 {float: left;}
-    .indent-1 section {width: 50%; float: left;}
-</style>
-
-<section class="indent-1">
-    <!-- Section 1 --> 
-    <section>
-
-        <div>Some more 1</div>
-    </section>
-
-    <!-- Section 2 -->
-    <section>
-        <div>Some content 2</div>
-        <div>Some more 2</div>
-    </section>
-</section>  
-
-
         <div class= "center">
 
 
-   
+        <person-card username=${username} class="center"></person-card> 
         
         </div>
 
@@ -93,9 +72,6 @@ padding: 10px;
         <div>pinto mensaje</div>
         <comp-container></comp-container>
         `;
-
-
-        
   }
 }
 
