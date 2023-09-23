@@ -1,0 +1,11 @@
+{
+  "name": "discord-pagina-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
